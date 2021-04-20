@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+Jammming project to fetch and manipulate resources on spotify API.
+
+Project is deployed on http://s3n_jamming.surge.sh/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
